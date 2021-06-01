@@ -1,1 +1,2 @@
-This is my first git project where I ll learn anout git using CLI
+Deleted the js folder
+Updated the file bash/alx by replacing echo "ALX" with echo "ALX School is so cool!"
