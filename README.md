@@ -1,0 +1,1 @@
+This is my first git project where I ll learn anout git using CLI
